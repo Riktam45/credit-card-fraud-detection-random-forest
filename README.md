@@ -81,7 +81,8 @@ The complete project structure look like:
 credit-card-fraud-detection-random-forest/
 │
 ├── data/
-│   └── creditcard.csv
+│   └── creditcard.csv (Datasets in local System)
+│   └── README.md (Dataset download urls uploaded on github)
 │
 ├── notebooks/
 │   └── Credit_Card_Fraud_Detection.ipynb
