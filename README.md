@@ -453,31 +453,11 @@ Shows the correct and incorrect predictions made by the Random Forest model.
 
 ---
 
-## ROC Curve
+## Project Flow Diagram
 
-![ROC Curve](figures/roc_curve.png)
+![Feature Importance](figures/project_flow.png)
 
-The model achieved a ROC-AUC of approximately:
-
-```text
-0.9529
-```
-
----
-
-## Precision-Recall Curve
-
-![Precision Recall Curve](figures/precision_recall_curve.png)
-
-Precision-Recall analysis is especially useful for highly imbalanced datasets such as fraud detection.
-
----
-
-## Feature Importance
-
-![Feature Importance](figures/feature_importance.png)
-
-Shows the most influential features according to the Random Forest model.
+Shows the workflow of Credit card fraud detection using Random forest
 
 ---
 
