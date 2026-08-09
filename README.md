@@ -455,7 +455,7 @@ Shows the correct and incorrect predictions made by the Random Forest model.
 
 ## Project Flow Diagram
 
-![Feature Importance](figures/project_flow.png)
+![Project Flow Diagram](figures/project_flow.png)
 
 Shows the workflow of Credit card fraud detection using Random forest
 
