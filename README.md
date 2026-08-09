@@ -75,7 +75,7 @@ data/
 └── creditcard.csv
 ```
 
-The complete project should look like:
+The complete project structure look like:
 
 ```text
 credit-card-fraud-detection-random-forest/
@@ -629,35 +629,6 @@ notebooks/Credit_Card_Fraud_Detection.ipynb
 Run the notebook from beginning to end to reproduce the analysis and model results.
 
 ---
-
-#  Project Structure
-
-```text
-credit-card-fraud-detection-random-forest/
-│
-├── 📂 data/
-│   └── creditcard.csv
-│
-├── 📂 notebooks/
-│   └── Credit_Card_Fraud_Detection.ipynb
-│
-├── 📂 figures/
-│   ├── class_distribution.png
-│   ├── amount_distribution.png
-│   ├── fraud_rate_time.png
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   ├── precision_recall_curve.png
-│   ├── feature_importance.png
-│   └── project_flow.png
-│
-├── 📂 documentation/
-│   └── Credit_Card_Fraud_Detection_Research_Paper.docx
-│
-├── 📄 README.md
-├── 📄 requirements.txt
-└── 📄 .gitignore
-```
 
 
 #  Authors
