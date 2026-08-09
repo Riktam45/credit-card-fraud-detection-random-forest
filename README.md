@@ -91,9 +91,6 @@ credit-card-fraud-detection-random-forest/
 │   ├── amount_distribution.png
 │   ├── fraud_rate_time.png
 │   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   ├── precision_recall_curve.png
-│   ├── feature_importance.png
 │   └── project_flow.png
 │
 ├── documentation/
